@@ -1,0 +1,18 @@
+
+body{
+    text-align: center;
+    background-color: rgb(125, 146, 146);
+}
+
+.main-heading{
+    font-weight: normal;
+}
+
+.Paragraph{
+    font-size: 30px;
+}
+
+pre{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
